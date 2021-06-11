@@ -1,0 +1,16 @@
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/bin/Debug/net5.0/ARTIGO-18873
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/bin/Debug/net5.0/ARTIGO-18873.deps.json
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/bin/Debug/net5.0/ARTIGO-18873.runtimeconfig.json
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/bin/Debug/net5.0/ARTIGO-18873.runtimeconfig.dev.json
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/bin/Debug/net5.0/ARTIGO-18873.dll
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/bin/Debug/net5.0/ref/ARTIGO-18873.dll
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/bin/Debug/net5.0/ARTIGO-18873.pdb
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/obj/Debug/net5.0/ARTIGO-18873.csprojAssemblyReference.cache
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/obj/Debug/net5.0/ARTIGO-18873.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/obj/Debug/net5.0/ARTIGO-18873.AssemblyInfoInputs.cache
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/obj/Debug/net5.0/ARTIGO-18873.AssemblyInfo.cs
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/obj/Debug/net5.0/ARTIGO-18873.csproj.CoreCompileInputs.cache
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/obj/Debug/net5.0/ARTIGO-18873.dll
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/obj/Debug/net5.0/ref/ARTIGO-18873.dll
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/obj/Debug/net5.0/ARTIGO-18873.pdb
+/home/daniloopinheiro/Source/DaniloOPinheiro/DM-CSHARP-ARTIGO-18873/ARTIGO-18873/obj/Debug/net5.0/ARTIGO-18873.genruntimeconfig.cache

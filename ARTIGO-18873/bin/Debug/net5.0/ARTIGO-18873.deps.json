@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ARTIGO-18873/1.0.0": {
+        "runtime": {
+          "ARTIGO-18873.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ARTIGO-18873/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
